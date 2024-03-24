@@ -34,14 +34,15 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=LegalmenteEmanuel&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LegalmenteEmanuel&theme=dark&hide_border=false" /> 
+  ![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=LegalmenteEmanuel&show_icons=true&theme=radical)
+
+![Emanuel's github streak](https://github-readme-streak-stats.herokuapp.com/?user=LegalmenteEmanuel&theme=radical)
+  
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=LegalmenteEmanuel&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegalmenteEmanuel&layout=compact&theme=radical)
   
   </td>
 </tr>
