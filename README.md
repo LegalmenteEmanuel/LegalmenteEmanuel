@@ -71,7 +71,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,angular,aws,cpp,codepen,css,docker,fastapi,figma,firebase,graphql,html,java,js,linux,mongodb,mysql,nestjs,nginx,nodejs,npm,php,postgres,postman,powershell,pycharm,py,ts,ubuntu,visualstudio,vscode,vue,wordpress,yarn&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,angular,aws,cpp,prisma,codepen,css,docker,fastapi,figma,firebase,graphql,html,java,js,linux,mongodb,mysql,nestjs,nginx,nodejs,npm,php,postgres,postman,powershell,pycharm,py,ts,ubuntu,visualstudio,vscode,vue,wordpress,yarn&perline=14" />
   </a>
 </p>
 
