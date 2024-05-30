@@ -42,7 +42,8 @@
 
 <td width="50%" align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LegalmenteEmanuel&layout=compact&theme=radical)
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LegalmenteEmanuel&theme=radical" height="180em" />
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LegalmenteEmanuel&theme=radical" height="180em" />
   
   </td>
 </tr>
