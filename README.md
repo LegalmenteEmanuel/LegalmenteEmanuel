@@ -47,8 +47,25 @@
 ## Actividad en GitHub
 
 <p align="center">
-  Explora mis <a href="https://github.com/LegalmenteEmanuel?tab=repositories">repositorios</a>
-  y mis <a href="https://github.com/LegalmenteEmanuel?tab=overview&from=2026-08-01&to=2026-08-31">contribuciones</a>.
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LegalmenteEmanuel&theme=github_dark" alt="Resumen de actividad de GitHub de Emanuel" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LegalmenteEmanuel&theme=github_dark" alt="Estadísticas de GitHub de Emanuel" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LegalmenteEmanuel&theme=github_dark" alt="Lenguajes más usados por Emanuel" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LegalmenteEmanuel&theme=github-dark-blue&hide_border=true" alt="Racha de contribuciones de Emanuel" />
+</p>
+
+## Contribuciones
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LegalmenteEmanuel/LegalmenteEmanuel/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LegalmenteEmanuel/LegalmenteEmanuel/output/github-contribution-grid-snake.svg" />
+  <img alt="Animación de la cuadrícula de contribuciones de Emanuel" src="https://raw.githubusercontent.com/LegalmenteEmanuel/LegalmenteEmanuel/output/github-contribution-grid-snake.svg" />
+</picture>
 </p>
 
 <p align="center">
