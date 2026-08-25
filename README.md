@@ -47,12 +47,8 @@
 ## Actividad en GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LegalmenteEmanuel&show_icons=true&hide_border=true&title_color=0969da&icon_color=0969da&text_color=24292f&bg_color=ffffff" alt="Estadísticas de GitHub de Emanuel" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LegalmenteEmanuel&layout=compact&hide_border=true&title_color=0969da&text_color=24292f&bg_color=ffffff" alt="Lenguajes más usados por Emanuel" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=LegalmenteEmanuel&hide_border=true&ring=0969DA&fire=F59E0B&currStreakLabel=0969DA" alt="Racha de contribuciones de Emanuel" />
+  Explora mis <a href="https://github.com/LegalmenteEmanuel?tab=repositories">repositorios</a>
+  y mis <a href="https://github.com/LegalmenteEmanuel?tab=overview&from=2026-08-01&to=2026-08-31">contribuciones</a>.
 </p>
 
 <p align="center">
